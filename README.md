@@ -1,5 +1,7 @@
 # JavaScript Math Calculator
 
+Live 🚀< https://pulicherubharathkumar.github.io/Javascript-Calculator/ >
+
 A simple and responsive calculator application built with HTML, CSS, and JavaScript. The calculator can perform  arithmetic operations such as Addition, Subtraction, Multiplication, Modulus and Division.
 
 ---
